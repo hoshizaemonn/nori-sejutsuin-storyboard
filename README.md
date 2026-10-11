@@ -1,15 +1,13 @@
-# Nori施術院｜集客設計・構成・台本 v4
+# Nori施術院｜構成・台本 v5
 
-[共有ページを開く](https://hoshizaemonn.github.io/nori-sejutsuin-storyboard/)
+[共有ページを開く](https://hoshizaemonn.github.io/nori-sejutsuin-storyboard/#film3)
 
-2026-10-11更新。集客2本・説明会1本を、ターゲットと来院／実参加から再設計した提案です。未承認・広告未配信。
+2026-10-11更新。3本目を40秒・9場面の静止画＋テロップ動画にしました（音声なし）。クライアント確認用の仮編集です。
 
-- [集客・運用設計と会議の確認事項](strategy.md)
-- [構成案 v4](structure.md)
-- [台本案 v4](script.md)
-- [参考動画の再選定・確認範囲](references.md)
-- [旧v2：見た目参考の画像とPDF](https://hoshizaemonn.github.io/nori-sejutsuin-storyboard/visual-v2.html)
+- [3本目の動画](videos/nori-learning-v5.mp4)
+- [構成と見せ方](structure.md)
+- [テロップ・台本](script.md)
+- [参考動画の再調査](references.md)
+- [集客・運用設計](strategy.md)
 
-最新の構成・台本はv4です。03の6シーン画像をv4として新規生成しました。01・02の旧画像とPDFはv2のままで、最新台本と完全一致しません。
-
-- [新しい03の6シーン画像](images/03_説明会_6シーン_v4.png)
+01・02の参考は比較・選定中です。03のv4画像6場面、v2画像・PDFは過去案です。今回の動画は9場面で、一部画像を再利用しています。

@@ -1,10 +1,10 @@
-# Nori施術院｜構成・台本 v6
+# Nori施術院｜構成・台本 v7
 
 [共有ページを開く](https://hoshizaemonn.github.io/nori-sejutsuin-storyboard/#film3)
 
 2026-10-11更新。3本目を40秒・9場面の静止画＋テロップ動画にしました（音声なし）。クライアント確認用の仮編集です。
 
-- [3本目の動画](videos/nori-learning-v6.mp4)
+- [3本目の動画](videos/nori-learning-v7.mp4)
 - [構成と見せ方](structure.md)
 - [テロップ・台本](script.md)
 - [参考動画の再調査](references.md)

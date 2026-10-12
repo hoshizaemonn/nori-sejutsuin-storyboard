@@ -1,3 +1,9 @@
+# 最新：01の景観導入カット v13
+
+[12秒の試作を見る](https://hoshizaemonn.github.io/nori-sejutsuin-storyboard/?v=13#route-intro)
+
+Googleマップの景観3枚＋提供された店舗写真・先生・院内。地図アニメーションではなく、写真を前進するように編集。無音、本編合成前。
+
 # 最新：01 v12
 
 [共有ページ](https://hoshizaemonn.github.io/nori-sejutsuin-storyboard/?v=12#film01)／[最新台本](script-01-v12.md)

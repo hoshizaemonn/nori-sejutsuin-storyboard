@@ -1,13 +1,13 @@
-# Nori施術院｜構成・台本 v9
+# Nori施術院｜画像付き絵コンテ v10
 
-2026-10-12更新。地域集客2本と学びの案内1本、各20カット・計60カット。
+[共有ページ](https://hoshizaemonn.github.io/nori-sejutsuin-storyboard/?v=10)
 
-[共有ページ](https://hoshizaemonn.github.io/nori-sejutsuin-storyboard/)
+地域特性の説明と、3本×20場面の画像付き絵コンテを追加しました。構成・台本はv9を使用しています。
+
+画像はAI生成による構図確認用です。地域外観は仮イメージで、現地素材ではありません。動画MP4は旧版のままです。
 
 - [構成](structure.md)
 - [台本](script.md)
-- [参考広告・地域調査](references.md)
-- [運用設計](strategy.md)
-- [旧共有ページ](archive-v8.html)
-
-v9は調査と構成・台本の改訂です。新しい画像・MP4の生成は未実施。旧映像はv8／v7として保持しています。
+- [調査](references.md)
+- [運用](strategy.md)
+- [生成プロンプト](images/v10/image-prompts.json)

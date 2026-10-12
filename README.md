@@ -1,3 +1,11 @@
+# 最新更新：01の構成・絵コンテ v11
+
+1本目のみ、地域の呼びかけ→肩・腰の悩み→近さ→施術へ改訂。施術7カット21秒。
+
+[01の最新台本](script-01-v11.md)／[共有ページの01](https://hoshizaemonn.github.io/nori-sejutsuin-storyboard/?v=11#film01)
+
+02・03はv10、MP4は未更新です。
+
 # Nori施術院｜画像付き絵コンテ v10
 
 [共有ページ](https://hoshizaemonn.github.io/nori-sejutsuin-storyboard/?v=10)
